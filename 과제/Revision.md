@@ -1,6 +1,6 @@
 # Revision Log
 
-## [2025-05-18] – Weekly Update
+## [2025-05-18] – Daily Update
 
 ### Added
   - 간트 차트: 간트 차트 생성(프로젝트 간트차트.pdf)
