@@ -1,6 +1,6 @@
 # Revision Log
 
-## [2025-05-18] – Daily Update
+## [2025-05-18] – Weekly Update
 
 ### Added
   -  간트 차트 생성
